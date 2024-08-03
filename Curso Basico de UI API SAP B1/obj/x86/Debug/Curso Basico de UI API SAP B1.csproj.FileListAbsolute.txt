@@ -1,0 +1,10 @@
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\bin\x86\Debug\Curso Basico de UI API SAP B1.exe.config
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\bin\x86\Debug\Curso Basico de UI API SAP B1.exe
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\bin\x86\Debug\Curso Basico de UI API SAP B1.pdb
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\obj\x86\Debug\Curso Basico de UI API SAP B1.csprojAssemblyReference.cache
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\obj\x86\Debug\Curso Basico de UI API SAP B1.csproj.ResolveComReference.cache
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\obj\x86\Debug\Curso Basico de UI API SAP B1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\obj\x86\Debug\Curso Basico de UI API SAP B1.exe
+C:\Users\Sistemas\source\repos\Curso Basico de UI API SAP B1\Curso Basico de UI API SAP B1\obj\x86\Debug\Curso Basico de UI API SAP B1.pdb
